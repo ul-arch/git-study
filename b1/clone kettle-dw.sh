@@ -1,1 +1,0 @@
-git clone git@github.com:sittercity/sittercity-dw-kettle.git
